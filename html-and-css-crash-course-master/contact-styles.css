@@ -1,0 +1,23 @@
+body, ul, li, h1, h2, a{  /* reset the browser default */
+    margin: 0;
+    padding: 0;
+    font-family: tahoma;
+    background-color: lighten(rgb(47, 5, 5), 10%);
+    font-size: 100%;
+  }
+  
+  div, textarea, input {
+    box-sizing:border-box; 
+  } 
+  
+  
+  /* .contact-container {  
+    max-width: 510px;
+    min-width: 324px;
+    margin: 50px auto 0px;
+    background-color: #e46969;
+    border: 1px solid lighten(#ccc, 1%); 
+    border-bottom: 3px solid #ccc;
+  } */
+  
+  
